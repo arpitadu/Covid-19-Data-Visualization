@@ -10,6 +10,10 @@
 #        2. Goverment of India -MOH website  -https://mohfw.gov.in/
 
 
+##This plot is in below link
+#  https://arpitadu.github.io/Covid-19-Data-Visualization/.
+
+
 ## Load Libraries ###
 library(stringr)
 library(jsonlite)
